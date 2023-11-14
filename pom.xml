@@ -52,6 +52,19 @@
 							<format>html</format>
 						</formats>
 					</coverage>
+					
+					<cloudHubDeployment>
+						<uri>https://anypoint.mulesoft.com</uri>
+						<muleVersion>4.4.0</muleVersion>
+						<username>Amir122308</username>
+						<password>Amir122306</password>
+						<applicationName>jenkinswithmule</applicationName>
+						<environment>Sandbox</environment>
+						<workerType>MICRO</workerType>
+						<objectStoreV2>true</objectStoreV2>
+					</cloudHubDeployment>
+					<classifier>---- select project type ----</classifier>
+				
 				</configuration>
 			</plugin>
 		</plugins>
